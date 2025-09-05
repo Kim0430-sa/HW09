@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/git/HW09/Content/HW09/Maps/Chatting.umap",
+				"C:/git/HW09/Content/HW09/Blueprint/NewFolder/Game/BP_GameModeBase.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/Game/BP_GameModeBase.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/Player/BP_PlayerController.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/UI/WBP_ChatInput.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/Game/BP_GameStateBase.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/Player/BP_PlayerState.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/UI/WBP_NotificationText.uasset",
+				"C:/git/HW09/Content/HW09/Blueprint/NewFolder/Player/BP_PlayerController.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\git\\HW09\\Source\\HW09\\HW09.Build.cs",
+		"C:\\git\\HW09\\Source\\HW09.Target.cs",
+		"C:\\git\\HW09\\Source\\HW09Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
